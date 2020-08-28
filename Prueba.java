@@ -11,7 +11,7 @@ public class Prueba {
     int[] numeros = new int[5];
 
     public void arrays() {
-
+//Utilize los operadores booleanos para definir valores verdaderos y valores falsos
         for (int i = 0; i < numeros.length; i++) {
             System.out.println("ingrese el numero " + i + " del arreglo: ");
             num = sc.nextInt();
